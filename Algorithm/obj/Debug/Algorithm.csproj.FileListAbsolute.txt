@@ -1,0 +1,7 @@
+C:\Repository\Rookiss\Algorithm\Algorithm\bin\Debug\Algorithm.exe.config
+C:\Repository\Rookiss\Algorithm\Algorithm\bin\Debug\Algorithm.exe
+C:\Repository\Rookiss\Algorithm\Algorithm\bin\Debug\Algorithm.pdb
+C:\Repository\Rookiss\Algorithm\Algorithm\obj\Debug\Algorithm.csprojAssemblyReference.cache
+C:\Repository\Rookiss\Algorithm\Algorithm\obj\Debug\Algorithm.csproj.CoreCompileInputs.cache
+C:\Repository\Rookiss\Algorithm\Algorithm\obj\Debug\Algorithm.exe
+C:\Repository\Rookiss\Algorithm\Algorithm\obj\Debug\Algorithm.pdb
