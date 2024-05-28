@@ -97,7 +97,7 @@ namespace Exercise
         {
             if (Id == other.Id) { return 0; }
 
-            return Id > Id ? 1 : -1;
+            return Id > other.Id ? 1 : -1;
         }
     }
 
@@ -105,16 +105,16 @@ namespace Exercise
     {
         static void Main(string[] args)
         {
-            PriorityQueue<int> q = new PriorityQueue<int>();
-            q.Push(20);
-            q.Push(10);
-            q.Push(30);
-            q.Push(90);
-            q.Push(40);
+            PriorityQueue<knight> q = new PriorityQueue<knight>();
+            q.Push(new knight() { Id = 20 });
+            q.Push(new knight() { Id = 30 });
+            q.Push(new knight() { Id = 40 });
+            q.Push(new knight() { Id = 10 });
+            q.Push(new knight() { Id = 05 });
 
             while(q.Count() > 0)
             {
-                Console.WriteLine(q.Pop());
+                Console.WriteLine(q.Pop().Id);
             }
         }
     }
